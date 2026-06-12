@@ -1,5 +1,5 @@
 # Hi, I'm Bima Indra Sakti 👋
-### Machine Learning Engineer & Computer Vision Enthusiast
+### Machine Learning  & Ai Enthusiast
 
 I am a final-year Informatics Engineering student at Gunadarma University with a deep focus on Artificial Intelligence and Machine Learning. Experienced in data processing, training deep learning models, and building interactive web-based dashboards.
 
