@@ -24,6 +24,8 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
   * Preprocessed the dataset and applied data augmentation techniques to handle imbalanced data.
   * Trained and optimized Convolutional Neural Network (CNN) architectures (such as EfficientNetB0).
   * Analyzed the impact of light intensity and camera distance on model accuracy.
+<img width="374" height="281" alt="image" src="https://github.com/user-attachments/assets/c999ce5d-01e5-4282-9364-903629e462f4" />
+
 
 ### 2. Study Recommender Web Application
 * **Description:** A collaborative capstone project built during the Dicoding Independent Study program to provide personalized learning path recommendations.
