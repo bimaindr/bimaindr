@@ -33,7 +33,10 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 * **What I Did:**
   * Collaborated in a team to build a data-driven recommendation engine.
   * Responsible for data cleaning and developing the recommendation algorithm in Python.
-  * Integrated the model into an interactive web dashboard using Streamlit.
+  * Integrated the model into an interactive web.
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/aba7a579-a7ef-41c6-b3ab-a6c420f0b1df" />
+<img width="1610" height="608" alt="image" src="https://github.com/user-attachments/assets/786c0b2f-e6b2-4548-98f0-62e6e5074504" />
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/32b17d15-d9e8-4358-9d95-92b156a5eb13" />
 
 ---
 
