@@ -18,15 +18,15 @@ I am a recent Informatics Engineering graduate from Gunadarma University with a 
 ## Featured Projects
 
 ### ⚡ Fast Agentic RAG Assistant
-**Description:** A high-performance conversational AI agent featuring real-time web search and Wikipedia retrieval, built with LangChain and Google's Gemini Flash model[cite: 3].
-**Tech Stack:** Python, Streamlit, LangChain, Google Gemini API, DuckDuckGo Search, Wikipedia API[cite: 3].
+**Description:** A high-performance conversational AI agent featuring real-time web search and Wikipedia retrieval, built with LangChain and Google's Gemini Flash model.
+**Tech Stack:** Python, Streamlit, LangChain, Google Gemini API, DuckDuckGo Search, Wikipedia API.
 
 **What I did:**
-- **LLM Integration:** Configured the `gemini-3.6-flash` model with optimized parameters, including a low temperature and strict timeouts, to ensure fast and deterministic responses[cite: 3].
-- **Agentic Tools:** Built a ReAct agent equipped with `DuckDuckGoSearchResults` and `WikipediaQueryRun` to autonomously browse the internet for up-to-date information[cite: 3].
-- **Memory Management:** Implemented `InMemoryChatMessageHistory` integrated with Streamlit's `session_state` to persistently maintain conversational context across multiple turns[cite: 3].
-- **Prompt Engineering:** Designed concise system prompts to restrict the agent to 1-2 necessary tool calls, preventing excessive token usage and reducing latency[cite: 3].
-- **UI/UX Design:** Developed a responsive chat interface using Streamlit that dynamically renders the chat history and displays the specific tools (sources) utilized by the AI during generation[cite: 3].
+- **LLM Integration:** Configured the `gemini-3.6-flash` model with optimized parameters, including a low temperature and strict timeouts, to ensure fast and deterministic responses.
+- **Agentic Tools:** Built a ReAct agent equipped with `DuckDuckGoSearchResults` and `WikipediaQueryRun` to autonomously browse the internet for up-to-date information.
+- **Memory Management:** Implemented `InMemoryChatMessageHistory` integrated with Streamlit's `session_state` to persistently maintain conversational context across multiple turns.
+- **Prompt Engineering:** Designed concise system prompts to restrict the agent to 1-2 necessary tool calls, preventing excessive token usage and reducing latency.
+- **UI/UX Design:** Developed a responsive chat interface using Streamlit that dynamically renders the chat history and displays the specific tools (sources) utilized by the AI during generation.
 
 <img width="976" height="730" alt="Screenshot 2026-10-07 074446" src="https://github.com/user-attachments/assets/d2480412-d754-437b-9522-9cbd9ca1f2d0" />
 <img width="1072" height="438" alt="Screenshot 2026-10-07 074509" src="https://github.com/user-attachments/assets/05d194c7-d69e-475d-a8c5-de1a13b0971d" />
