@@ -1,7 +1,7 @@
 # Hi, I'm Bima Indra Sakti 👋
 ### Machine Learning  & Ai Enthusiast
 
-I am a final-year Informatics Engineering student at Gunadarma University with a deep focus on Artificial Intelligence and Machine Learning. Experienced in data processing, training deep learning models, and building interactive web-based dashboards.
+I am a recent Informatics Engineering graduate from Gunadarma University with a deep focus on Artificial Intelligence and Machine Learning. Experienced in data processing, training deep learning models, and building interactive web-based dashboards.
 
 * 📩 Email: bima.indr2506@gmail.com
 * 💼 LinkedIn: [linkedin.com/in/bima-indra-sakti-b36814352](https://www.linkedin.com/in/bima-indra-sakti-b36814352)
