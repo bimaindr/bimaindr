@@ -16,8 +16,9 @@ I am a recent Informatics Engineering graduate from Gunadarma University with a 
 ---
 
 ## Featured Projects
-
 ### ⚡ Fast Agentic RAG Assistant
+## Link access: https://genai-app-lxswst6panxqsj7kk57zmx.streamlit.app/
+
 **Description:** A high-performance conversational AI agent featuring real-time web search and Wikipedia retrieval, built with LangChain and Google's Gemini Flash model.
 **Tech Stack:** Python, Streamlit, LangChain, Google Gemini API, DuckDuckGo Search, Wikipedia API.
 
@@ -35,6 +36,7 @@ I am a recent Informatics Engineering graduate from Gunadarma University with a 
 
 
 ### Acne Classification app
+## Link access: https://klasifikasi-jerawat-jp8bqqygwbggs38aivmbrb.streamlit.app/
 * **Description:** A Project-based thesis focused on classification acne wiyh EfficentNetB0 architecture search and compound scaling.
 * **Tech Stack:** Python, TensorFlow & Keras, Google Colab, CNN
 * **What I did:**
