@@ -17,7 +17,24 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 
 ## Featured Projects
 
-### 1. Acne Classification app
+### ⚡ Fast Agentic RAG Assistant
+**Description:** A high-performance conversational AI agent featuring real-time web search and Wikipedia retrieval, built with LangChain and Google's Gemini Flash model[cite: 3].
+**Tech Stack:** Python, Streamlit, LangChain, Google Gemini API, DuckDuckGo Search, Wikipedia API[cite: 3].
+
+**What I did:**
+- **LLM Integration:** Configured the `gemini-3.6-flash` model with optimized parameters, including a low temperature and strict timeouts, to ensure fast and deterministic responses[cite: 3].
+- **Agentic Tools:** Built a ReAct agent equipped with `DuckDuckGoSearchResults` and `WikipediaQueryRun` to autonomously browse the internet for up-to-date information[cite: 3].
+- **Memory Management:** Implemented `InMemoryChatMessageHistory` integrated with Streamlit's `session_state` to persistently maintain conversational context across multiple turns[cite: 3].
+- **Prompt Engineering:** Designed concise system prompts to restrict the agent to 1-2 necessary tool calls, preventing excessive token usage and reducing latency[cite: 3].
+- **UI/UX Design:** Developed a responsive chat interface using Streamlit that dynamically renders the chat history and displays the specific tools (sources) utilized by the AI during generation[cite: 3].
+
+<img width="976" height="730" alt="Screenshot 2026-10-07 074446" src="https://github.com/user-attachments/assets/d2480412-d754-437b-9522-9cbd9ca1f2d0" />
+<img width="1072" height="438" alt="Screenshot 2026-10-07 074509" src="https://github.com/user-attachments/assets/05d194c7-d69e-475d-a8c5-de1a13b0971d" />
+<img width="1008" height="861" alt="Screenshot 2026-10-07 074519" src="https://github.com/user-attachments/assets/d71b65bd-a62b-4ef7-b3e0-1303463351d1" />
+<img width="959" height="778" alt="Screenshot 2026-10-07 074527" src="https://github.com/user-attachments/assets/68d3991d-8d72-4690-9d4e-ed715decd19c" />
+
+
+### Acne Classification app
 * **Description:** A Project-based thesis focused on classification acne wiyh EfficentNetB0 architecture search and compound scaling.
 * **Tech Stack:** Python, TensorFlow & Keras, Google Colab, CNN
 * **What I did:**
@@ -33,7 +50,7 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 <img width="805" height="833" alt="Screenshot 2026-07-22 232757" src="https://github.com/user-attachments/assets/14d885cc-ca37-4d6e-ba65-5fd1c549ceab" />
 
 
-### 2. Acne Detection Model Using CNN
+### Acne Detection Model Using CNN
 * **Description:** A research project focused on image classification to detect and categorize visual characteristics of acne.
 * **Tech Stack:** Python, TensorFlow, Keras, OpenCV, CNN
 * **What I Did:**
@@ -43,7 +60,7 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 <img width="374" height="281" alt="image" src="https://github.com/user-attachments/assets/c999ce5d-01e5-4282-9364-903629e462f4" />
 
 
-### 3. Study Recommender Web Application
+### Study Recommender Web Application
 * **Description:** A collaborative capstone project built during the Dicoding Independent Study program to provide personalized learning path recommendations.
 * **Tech Stack:** Python, Scikit-Learn, Streamlit, Git
 * **What I Did:**
@@ -55,7 +72,7 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/32b17d15-d9e8-4358-9d95-92b156a5eb13" />
 
 
-### 4. Bike Sharing Analysisi
+### Bike Sharing Analysisi
 Urban mobility and bike-sharing systems have grown significantly, making efficient fleet management critical. The primary challenge is predicting and understanding demand fluctuations. Without data-driven insights, bike-sharing companies struggle with uneven bike distribution (e.g., shortages during rush hours or oversupply during bad weather). 
 
 This project aims to solve that problem by answering core business questions:
@@ -63,7 +80,7 @@ This project aims to solve that problem by answering core business questions:
 2. **User Segmentation:** What are the key operational differences between casual riders and registered members in terms of peak usage times?
 3. **Environmental Impact:** How drastically do weather variations (temperature, wind speed, and humidity) impact user rental behavior?
 
-## ⚙️ Tech Stack
+## Tech Stack
 * **Language:** Python
 * **Data Libraries:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
