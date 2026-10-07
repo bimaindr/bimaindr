@@ -17,9 +17,25 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 
 ## Featured Projects
 
-### 1. Acne Detection Model Using CNN
+### 1. Acne Classification app
+* **Description:** A Project-based thesis focused on classification acne wiyh EfficentNetB0 architecture search and compound scaling.
+* **Tech Stack:** Python, TensorFlow & Keras, Google Colab, CNN
+* **What I did:**
+  * Using CRISP-DM method:
+    * Business Understanding: Understanding business goals and needs from an industry perspective, then translating them into data mining problems.
+    * Data Understanding: Collecting initial data, checking data quality, and finding first insights to recognize data patterns.
+    * Data Preparation: Cleaning data ( cleaning ), transforming, and selecting the variables to be used (this stage usually takes the longest time).
+    * Modeling: Selecting and applying various data mining techniques or algorithms (such as classification, clustering, or regression) and tuning their parameters.
+    * Evaluation: Evaluate the model built to ensure that the model truly answers the business objectives in the first stage before deployment.
+    * Deployment: Implementing data mining results into operational systems or presenting them in the form of reports for decision making.
+<img width="1713" height="931" alt="Screenshot 2026-07-22 225913" src="https://github.com/user-attachments/assets/6c0664c3-20c8-4fd5-9a4b-f421e9a46d2f" />
+<img width="474" height="369" alt="Screenshot 2026-07-22 230136" src="https://github.com/user-attachments/assets/57472a65-f493-4428-a0a8-5130babfe10f" />
+<img width="805" height="833" alt="Screenshot 2026-07-22 232757" src="https://github.com/user-attachments/assets/14d885cc-ca37-4d6e-ba65-5fd1c549ceab" />
+
+
+### 2. Acne Detection Model Using CNN
 * **Description:** A research project focused on image classification to detect and categorize visual characteristics of acne.
-* **Tech Stack:** Python, TensorFlow, Keras, OpenCV
+* **Tech Stack:** Python, TensorFlow, Keras, OpenCV, CNN
 * **What I Did:**
   * Preprocessed the dataset and applied data augmentation techniques to handle imbalanced data.
   * Trained and optimized Convolutional Neural Network (CNN) architectures (such as EfficientNetB0).
@@ -27,7 +43,7 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 <img width="374" height="281" alt="image" src="https://github.com/user-attachments/assets/c999ce5d-01e5-4282-9364-903629e462f4" />
 
 
-### 2. Study Recommender Web Application
+### 3. Study Recommender Web Application
 * **Description:** A collaborative capstone project built during the Dicoding Independent Study program to provide personalized learning path recommendations.
 * **Tech Stack:** Python, Scikit-Learn, Streamlit, Git
 * **What I Did:**
@@ -39,7 +55,7 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/32b17d15-d9e8-4358-9d95-92b156a5eb13" />
 
 
-### 3. Bike Sharing Analysisi
+### 4. Bike Sharing Analysisi
 Urban mobility and bike-sharing systems have grown significantly, making efficient fleet management critical. The primary challenge is predicting and understanding demand fluctuations. Without data-driven insights, bike-sharing companies struggle with uneven bike distribution (e.g., shortages during rush hours or oversupply during bad weather). 
 
 This project aims to solve that problem by answering core business questions:
