@@ -25,7 +25,7 @@ I am a final-year Informatics Engineering student at Gunadarma University with a
     * Business Understanding: Understanding business goals and needs from an industry perspective, then translating them into data mining problems.
     * Data Understanding: Collecting initial data, checking data quality, and finding first insights to recognize data patterns.
     * Data Preparation: Cleaning data ( cleaning ), transforming, and selecting the variables to be used (this stage usually takes the longest time).
-    * Modeling: Selecting and applying various data mining techniques or algorithms (such as classification, clustering, or regression) and tuning their parameters.
+    * Modeling: Selecting and applying various data mining techniques or algorithms such as classification and tuning their parameters.
     * Evaluation: Evaluate the model built to ensure that the model truly answers the business objectives in the first stage before deployment.
     * Deployment: Implementing data mining results into operational systems or presenting them in the form of reports for decision making.
 <img width="1713" height="931" alt="Screenshot 2026-07-22 225913" src="https://github.com/user-attachments/assets/6c0664c3-20c8-4fd5-9a4b-f421e9a46d2f" />
